@@ -2,6 +2,15 @@ body {
 	background-color: black;
 }
 
+p {
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+
+strong {
+	font-weight: bold;
+}
+
 .main {
 	background-color: white;
 	margin-top: 110px;
@@ -52,4 +61,13 @@ body {
 	top: 168px;
 	left: -210px;
 	float: left;
+}
+
+.instructions {
+	color: red;
+	font-family: Helvetica, Arial, sans-serif;
+	font-size: 18px;
+	position: absolute;
+	left: 700px;
+	top: 280px;
 }
